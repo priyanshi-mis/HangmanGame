@@ -31,10 +31,3 @@ python hangman.py
 
 This project helped me improve my understanding of Python fundamentals, loops, conditional statements, and problem-solving skills.
 
-## Author
-
-Priyanshi Mishra
-
-## Internship
-
-CodeAlpha Python Programming Internship
